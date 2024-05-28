@@ -23,7 +23,7 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-## Ferramentas que utilizo:
+## Ferramentas que eu utilizo:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
