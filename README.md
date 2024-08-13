@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=clebermarcolino.clebermarcolino)
+
 ### Olá! Eu sou Cleber Marcolino! 😉
 
 ## Para se comunicar comigo:
