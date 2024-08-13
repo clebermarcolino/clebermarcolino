@@ -1,5 +1,3 @@
-![Visitor Count](https://badges.pufler.dev/visits/clebermarcolino/clebermarcolino)
-
 ### Olá! Eu sou Cleber Marcolino! 😉
 
 ## Para se comunicar comigo:
