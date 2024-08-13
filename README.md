@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=clebermarcolino.clebermarcolino)
+![Visitor Count](https://badges.pufler.dev/visits/clebermarcolino/clebermarcolino)
 
 ### Olá! Eu sou Cleber Marcolino! 😉
 
