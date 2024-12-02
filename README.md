@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-## Linguagens de programação que eu utilizo:
+## Linguagens de programação :
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,7 +26,7 @@
 
 </div>
 
-## Ferramentas que eu utilizo:
+## Ferramentas:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
@@ -34,12 +34,27 @@
     <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)" />
+    <img align="center"
+    alt="Nodejs"
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-## Frameworks que eu utilizo:
+## Frameworks :
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="center" alt="Express"
+src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
+
+## Banco de Dados :
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="PostgreeSQL"
+src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="center" alt="MongoDB"
+src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="center" alt="SQlite"
+src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
