@@ -44,6 +44,7 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" alt="grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
   </div>
 
 ## Frameworks :
